@@ -1,16 +1,19 @@
+html{
+background: url("https://www.itl.cat/pics/b/28/287499_escape-from-tarkov-wallpaper.jpg") no-repeat center fixed;
+background-size: cover;
+}
+
 table {
   border: solid black;
   border-collapse: 2px collapse;
   width 50%;
-}
+  }
 
 #Name{
   font-size: 20px;
-  color: black;
+  color: white;
   font-weight: bolder;
 }
-
-
 
 .ammo{
   font-weight: bolder;
@@ -22,5 +25,5 @@ th,td{
 }
 
 th,td {
-  background-color: lightgray;
+  background-color: transparent;
 }
