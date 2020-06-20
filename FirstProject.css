@@ -6,19 +6,21 @@ table {
 
 #Name{
   font-size: 20px;
-  color: green;
+  color: black;
   font-weight: bolder;
 }
+
+
 
 .ammo{
   font-weight: bolder;
 }
 
-th,{
+th,td{
   border: 1px solid black;
   text-align: center;
 }
 
-th {
+th,td {
   background-color: lightgray;
 }
